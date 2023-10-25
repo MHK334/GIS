@@ -1,0 +1,2 @@
+import folium
+reitaku = [35.8330 , 139.9550]
